@@ -1,0 +1,4 @@
+./.idea
+./venv
+./phones/migrations/
+!./phones/migrations/__init__.py
